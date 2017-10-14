@@ -1,4 +1,4 @@
-package com.masterbugs.swoosh
+package com.masterbugs.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
